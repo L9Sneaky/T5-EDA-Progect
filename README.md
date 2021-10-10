@@ -17,12 +17,12 @@ This project originated from our clients needs to reduce the electricity billand
 ### Data
 
 We will use data about the patterns of transit traffic in New York City: MTA turnstile data, collect and clean our data set and then we will perform EDA to better understand our data:  
-1. Station		Represents the station name the device is located at.
-2. date			Represents the date.
-3. time			Represents the time for a scheduled audit event.
-4. entries		The cumulative entry register value for a device.
-5. exits		The cumulative exit register value for a device.
-6. station_code	C/A + unit, locating a station.
+1. Station:		Represents the station name the device is located at.
+2. date:			Represents the date.
+3. time:			Represents the time for a scheduled audit event.
+4. entries:		The cumulative entry register value for a device.
+5. exits:		The cumulative exit register value for a device.
+6. station_code:	C/A + unit, locating a station.
 
 The unit of analysis is the group. After modeling and analysis data economic companies will be able to benefit from crowded in each station and helping people to spend their waiting time in a fun and useful day.
 
